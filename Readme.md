@@ -1,4 +1,4 @@
-# Full Backend Project
+# Backend Project
 
 This is my first professional backend project.
 
