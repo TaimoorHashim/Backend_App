@@ -1,6 +1,6 @@
 # Backend Project
 
-This is my first professional backend project.
+Build with Logical, Clean and structured code
 
 - [Models](https://app.eraser.io/workspace/Zfn570qUFn71tQrx8jgE?origin=share)
 
